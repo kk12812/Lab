@@ -1,3 +1,18 @@
+.header{
+    width: 95%;
+    height:150px;
+    background-color: rgb(255, 255, 255);
+    margin:10px;
+}
+
+.left{
+    width: 20%;
+    height:570px;
+    float:left;
+    background-image: url("../image/sh.jpg");
+    background-position:center;
+}
+
 table,tr,th,td{
     border: 1px solid black;
     text-align: center;
@@ -13,7 +28,7 @@ caption{
 
 body {
     background-color: rgba(187, 121, 121, 0.247);
-    background-image: url("../image/sh.jpg");
+    
 }
 
 tr:hover {
